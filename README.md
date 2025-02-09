@@ -1,0 +1,3 @@
+# Dart: Rethrowing Exceptions for Comprehensive Error Handling
+
+This repository showcases a common error in Dart asynchronous programming related to exception handling and the proper usage of `rethrow`.  The `bug.dart` file demonstrates the issue, while `bugSolution.dart` provides the corrected code.  The scenario involves fetching data from a remote API using `http.get`. The focus is on how to correctly re-throw exceptions for comprehensive error management.
